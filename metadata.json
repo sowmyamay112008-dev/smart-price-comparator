@@ -1,0 +1,6 @@
+{
+  "name": "DealWise – Smart Price Comparison",
+  "description": "Smart Price Comparison & Deal Intelligence Platform with multi-retailer price comparison, historical tracking, and explainable deal analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
